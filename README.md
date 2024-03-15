@@ -1,17 +1,21 @@
-### Hi there 👋
+# Name: Pau Romeu Bruguera
+
+## Summary
+I am a passionate web developer with experience in both front-end and back-end development. I love creating interactive websites and scalable web applications. I am always eager to learn new technologies and improve my programming skills.
+
+## Technologies
+Programming Languages: HTML, CSS, JavaScript, Python
+Frameworks: React.js
+Development Tools: Git, Visual Studio Code, npm
+Databases: MySQL
+Others: Bootstrap, Sass, RESTful APIs
+
+## Work Experience
 
 
-<!--
-**pauromeubruguera/pauromeubruguera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Education
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact
+LinkedIn: 
+Email:
