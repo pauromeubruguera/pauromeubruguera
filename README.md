@@ -5,10 +5,15 @@ I am a passionate web developer with experience in both front-end and back-end d
 
 ## Technologies
 Programming Languages: HTML, CSS, JavaScript, Python
+
 Frameworks: React.js
+
 Development Tools: Git, Visual Studio Code, npm
+
 Databases: MySQL
-Others: Bootstrap, Sass, RESTful APIs
+
+Others: Bootstrap, Sass, jQuery
+
 
 ## Work Experience
 
