@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm pau</h1>
-<h3 align="center">A passionate frontend developer from Spain</h3>
-
+<h3 align="center">A passionate software developer from Spain</h3>
+<p>Software Developer with proven expertise in JavaScript, Jquery, React and Python, specializing in the creation of dynamic and high-performance web applications. Collaborated in agile teams using Scrum methodologies, achieving tangible improvements in team efficiency and product quality. Committed to excellence and continuous improvement, always seeking new technologies and techniques to optimize my skills and project performance. Willing to relocate for new opportunities.</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
